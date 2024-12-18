@@ -1,0 +1,12 @@
+{
+  "ID": "D2D2C23B084D411DB66FE0C79D6C2A6H",
+  "ActionKeyword": "doy",
+  "Name": "Day Of Year",
+  "Description": "Gets the current day of the year.",
+  "Author": "enriquein",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/enriquein/DayOfYearWoxPlugin",
+  "IcoPath": "", 
+  "ExecuteFileName": "DayOfYearWoxPlugin.dll" 
+}
